@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Bug Test</string>
+    <string name="title_activity_main">Bug Test</string>
+    <string name="package_name">com.bug.test.android51addlistener</string>
+    <string name="fileprovider_authority">com.bug.test.android51addlistener.fileprovider</string>
+    <string name="custom_url_scheme">com.bug.test.android51addlistener</string>
+</resources>

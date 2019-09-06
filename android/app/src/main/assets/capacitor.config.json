@@ -1,0 +1,7 @@
+{
+  "appId": "com.bug.test.android51addlistener",
+  "appName": "Bug Test",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "build"
+}
